@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dhamu89
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Github,DEVOPS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://tipsonunix.com/contact-me/
 
